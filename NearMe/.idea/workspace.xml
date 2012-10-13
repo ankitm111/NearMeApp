@@ -31,7 +31,7 @@
       <file leaf-file-name="20121008042541_create_users.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20121008042541_create_users.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="24" selection-start="106" selection-end="113" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
       <file leaf-file-name="20121008042546_create_messages.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20121008042546_create_messages.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+            <state line="10" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -49,7 +49,7 @@
       <file leaf-file-name="20121008042553_create_preferences.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20121008042553_create_preferences.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
+            <state line="5" column="28" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -58,7 +58,7 @@
       <file leaf-file-name="20121008042604_create_activities.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20121008042604_create_activities.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+            <state line="7" column="23" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,7 +67,7 @@
       <file leaf-file-name="20121008042615_create_current_active_activities.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/migrate/20121008042615_create_current_active_activities.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="25" selection-start="181" selection-end="181" vertical-scroll-proportion="0.15463917">
+            <state line="14" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.36082473">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="preference.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/preference.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="2" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+            <state line="6" column="128" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,20 +115,20 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app/models/message.rb" />
-        <option value="$PROJECT_DIR$/app/models/preference.rb" />
         <option value="$PROJECT_DIR$/app/models/current_active_activity.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20121008042541_create_users.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20121008042604_create_activities.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20121008042546_create_messages.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20121008042553_create_preferences.rb" />
+        <option value="$PROJECT_DIR$/app/models/preference.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20121008042546_create_messages.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20121008042541_create_users.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20121008042615_create_current_active_activities.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="22" />
+    <option name="x" value="1608" />
+    <option name="y" value="87" />
     <option name="width" value="1316" />
     <option name="height" value="772" />
   </component>
@@ -426,7 +426,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="22" width="1316" height="772" extended-state="0" />
+    <frame x="1608" y="87" width="1316" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -515,13 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/preference.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="2" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/current_active_activity.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="18" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
@@ -559,37 +552,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20121008042541_create_users.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/preference.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="24" selection-start="106" selection-end="113" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20121008042546_create_messages.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+        <state line="6" column="128" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20121008042553_create_preferences.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
+        <state line="5" column="28" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20121008042604_create_activities.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+        <state line="7" column="23" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20121008042546_create_messages.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20121008042541_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20121008042615_create_current_active_activities.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="181" selection-end="181" vertical-scroll-proportion="0.15463917">
+        <state line="14" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.36082473">
           <folding />
         </state>
       </provider>
