@@ -1,0 +1,2 @@
+class AddActivityController < ApplicationController
+end

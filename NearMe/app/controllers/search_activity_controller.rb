@@ -1,0 +1,2 @@
+class SearchActivityController < ApplicationController
+end

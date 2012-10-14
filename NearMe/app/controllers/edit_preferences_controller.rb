@@ -1,0 +1,2 @@
+class EditPreferencesController < ApplicationController
+end

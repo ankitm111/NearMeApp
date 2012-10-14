@@ -1,0 +1,2 @@
+class CheckMessagesController < ApplicationController
+end
